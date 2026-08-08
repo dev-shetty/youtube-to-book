@@ -1,6 +1,6 @@
 {
   "name": "youtube-to-book",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Claude Code skill that turns YouTube videos and playlists into typeset LaTeX textbooks",
   "keywords": [
     "claude",
@@ -16,13 +16,13 @@
   ],
   "license": "MIT",
   "author": "Deveesh Shetty",
-  "homepage": "https://github.com/deveeshshetty/youtube-to-book#readme",
+  "homepage": "https://github.com/dev-shetty/youtube-to-book#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deveeshshetty/youtube-to-book.git"
+    "url": "git+https://github.com/dev-shetty/youtube-to-book.git"
   },
   "bugs": {
-    "url": "https://github.com/deveeshshetty/youtube-to-book/issues"
+    "url": "https://github.com/dev-shetty/youtube-to-book/issues"
   },
   "type": "commonjs",
   "bin": {

@@ -100,7 +100,7 @@ The whole skill is one Markdown file. After installing, edit `~/.claude/skills/y
 Issues and PRs welcome. To work on it locally:
 
 ```bash
-git clone https://github.com/deveeshshetty/youtube-to-book
+git clone https://github.com/dev-shetty/youtube-to-book
 cd youtube-to-book
 node bin/cli.js install --force    # install your working copy
 ```
